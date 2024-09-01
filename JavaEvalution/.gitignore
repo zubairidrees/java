@@ -1,0 +1,12 @@
+.idea/
+*.iml
+.txt
+HiddenClass.class
+/src/main/java/doc/
+/target/
+/data.ser
+/data.txt
+/example.txt
+/HiddenClass.class
+/HiddenClass1.class
+/JavaEvolution.iml
